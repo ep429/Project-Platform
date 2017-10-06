@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 030cf0982c4a64e429d61e947e8d7205
+timeCreated: 1432245582
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mainchar_run_0
+    21300002: mainchar_run_1
+    21300004: mainchar_run_2
+    21300006: mainchar_run_3
+    21300008: mainchar_run_4
+    21300010: mainchar_run_5
+    21300012: mainchar_run_6
+    21300014: mainchar_run_7
+    21300016: mainchar_run_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: mainchar_run_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 542
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 542
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 542
+        width: 28
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_6
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_7
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: mainchar_run_8
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 542
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
